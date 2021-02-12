@@ -1,0 +1,70 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "La disciplina di Penelope",
+      "author": "Gianrico Carofiglio",
+      "genre": "Thriller",
+      "isbn": "9788804726739",
+      "published": "2021/01/19",
+      "created_at": "2021-02-09",
+      "edited_at": null
+    },
+    {
+      "id": 2,
+      "title": "Fattoria degli animali",
+      "author": "George Orwell",
+      "genre": "Narrativa",
+      "isbn": "9788807903793",
+      "published": "1945-08-17",
+      "created_at": "2021-02-09",
+      "edited_at": null
+    },
+    {
+      "id": 3,
+      "title": "Lungo petalo di mare",
+      "author": "Isabel Allende",
+      "genre": "Narrativa",
+      "isbn": "9788807894442",
+      "published": "2021-01-07",
+      "created_at": "2021-02-09",
+      "edited_at": null
+    },
+    {
+      "id": 4,
+      "title": "L'arte di legare le persone",
+      "author": "Paolo Milone",
+      "genre": "Narrativa",
+      "isbn": "9788806246372",
+      "published": "2021-01-19",
+      "created_at": "2021-02-09",
+      "edited_at": null
+    },
+    {
+      "title": "Persone normali",
+      "author": "Sally Rooney",
+      "genre": "Narrativa",
+      "isbn": "9788806241315",
+      "published": "2019-05-21",
+      "id": 5
+    },
+    {
+      "title": "Il bosco dei ricordi",
+      "author": "Sam Lloyd",
+      "genre": "Thriller",
+      "isbn": "9788893903202",
+      "published": "2021-02-04",
+      "id": 6,
+      "edited_at": "2021-02-12T09:01:59.104Z"
+    },
+    {
+      "title": "Scheletri",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "isbn": "9788868362515",
+      "published": "1985-07-27",
+      "created_at": "2021-02-12T09:11:25.123Z",
+      "id": 7
+    }
+  ]
+}
